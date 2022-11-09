@@ -62,15 +62,19 @@ dt.predict([[5,6]])
 ## Output:
 ![200161294-fd2ca667-ba80-46fd-bd03-9d75408f128f](https://user-images.githubusercontent.com/94219582/200754917-24b9656f-e620-4d65-9b30-d76842388fea.png)
 
-![200161297-9fada6f3-4e3c-4c5e-bcd6-7b1c83a4cf7f](https://user-images.githubusercontent.com/94219582/200754937-0aba4bca-9612-4ed5-8a19-03f779d2ec84.png)
-![200161303-5c5a0d6f-72f1-401e-b3af-7e3984c4f9f0](https://user-images.githubusercontent.com/94219582/200754952-c162c2ed-8aed-4ef5-9675-23e7e28e09f0.png)
-![200161307-fc42d560-4459-49f9-b924-dc3ae569f4c8](https://user-images.githubusercontent.com/94219582/200754992-e28f8436-1bae-4b64-9506-004017d6a756.png)
-![200161315-b26c3b21-33f3-4855-b735-fa4e0f034cbc](https://user-images.githubusercontent.com/94219582/200755027-9e4cd259-c088-4e8f-b927-0eaa1ab265ef.png)
-![200161320-79652558-0784-4762-aae3-deb8570a2cb9](https://user-images.githubusercontent.com/94219582/200755052-662b7dcb-a67c-4259-92a5-a45be9f84849.png)
-![200161322-8c864376-f042-490e-9f4d-2d6197bdced9](https://user-images.githubusercontent.com/94219582/200755077-5d39c6a6-e6eb-4b6b-9f3c-b577d8460a82.png)
+![200161297-9fada6f3-4e3c-4c5e-bcd6-7b1c83a4cf7f](https://user-images.githubusercontent.com/94219582/200755246-3628721a-1f36-4b62-9098-711467e159e2.png)
 
+![200161303-5c5a0d6f-72f1-401e-b3af-7e3984c4f9f0](https://user-images.githubusercontent.com/94219582/200755276-7a865298-56a9-4be4-be7e-3cacb2aeebe7.png)
 
+![200161307-fc42d560-4459-49f9-b924-dc3ae569f4c8](https://user-images.githubusercontent.com/94219582/200755323-37f722c6-c1e2-4eee-95a9-631294ebd324.png)
 
+![200161310-0aa24aa4-5f7a-495b-bf76-a010be4678ba](https://user-images.githubusercontent.com/94219582/200755343-a65c3c29-97a6-4dd1-9e13-6696b73d1e35.png)
+
+![200161315-b26c3b21-33f3-4855-b735-fa4e0f034cbc](https://user-images.githubusercontent.com/94219582/200755369-4d13c759-a921-47f9-ac69-e70025416307.png)
+
+![200161320-79652558-0784-4762-aae3-deb8570a2cb9](https://user-images.githubusercontent.com/94219582/200755388-36b46a6e-2ba4-4a07-b7b6-da2ceda49120.png)
+
+![200161322-8c864376-f042-490e-9f4d-2d6197bdced9](https://user-images.githubusercontent.com/94219582/200755405-c4559eaa-1d52-4204-a0da-9cc5b47dea3d.png)
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
